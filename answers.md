@@ -1,3 +1,5 @@
+# Parte 1 – Preguntas Teóricas
+
 1. Explique la diferencia entre Middleware, Guard, Interceptor y Pipe en NestJS.
 
 - Middleware: Es una función que se ejecuta antes de que la solicitud alcance el controlador, la cual se utiliza para tareas como autenticación, registro de solicitudes, manejo de errores, etc.
